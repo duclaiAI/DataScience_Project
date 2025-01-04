@@ -3,7 +3,7 @@
 
 In this repository, I would push many **Mini DataScience Projects** in the **Marketing, Social Media, E-Commerce**.    
 
-These mini data sience projects would follow the following steps:
+These mini data sience projects would follow these following steps:
   1. Business Understanding And Analytic Approach
   2. Data Collection, Understanding
   3. Data Preparation
